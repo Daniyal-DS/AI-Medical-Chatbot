@@ -62,7 +62,7 @@ pip install transformers datasets peft bitsandbytes torch
 ## **Usage**  
 1. Clone this repository:  
    ```bash
-   git clone(https://github.com/Daniyal-DS/AI-Medical-Chatbot)
+   git clone[https://github.com/Daniyal-DS/AI-Medical-Chatbot]
    cd Medical-AI-Chatbot
    ```
 2. Open the Jupyter Notebook:  
@@ -115,4 +115,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-Let me know if you’d like to customize any part of this README!
